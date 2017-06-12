@@ -28,3 +28,13 @@ C:\Dev2\Selenium.Automation\src\Selenium.Automation.Common\bin\Debug\Selenium.Au
 C:\Dev2\Selenium.Automation\src\Selenium.Automation.Common\obj\Debug\Selenium.Automation.Common.csprojResolveAssemblyReference.cache
 C:\Dev2\Selenium.Automation\src\Selenium.Automation.Common\obj\Debug\Selenium.Automation.Common.dll
 C:\Dev2\Selenium.Automation\src\Selenium.Automation.Common\obj\Debug\Selenium.Automation.Common.pdb
+C:\Users\Pedro\Desktop\SeleniumAutomation\src\Selenium.Automation.Common\bin\Debug\chromedriver.exe
+C:\Users\Pedro\Desktop\SeleniumAutomation\src\Selenium.Automation.Common\bin\Debug\geckodriver.exe
+C:\Users\Pedro\Desktop\SeleniumAutomation\src\Selenium.Automation.Common\bin\Debug\IEDriverServer.exe
+C:\Users\Pedro\Desktop\SeleniumAutomation\src\Selenium.Automation.Common\bin\Debug\Selenium.Automation.Common.dll
+C:\Users\Pedro\Desktop\SeleniumAutomation\src\Selenium.Automation.Common\bin\Debug\Selenium.Automation.Common.pdb
+C:\Users\Pedro\Desktop\SeleniumAutomation\src\Selenium.Automation.Common\bin\Debug\Selenium.Automation.Drivers.dll
+C:\Users\Pedro\Desktop\SeleniumAutomation\src\Selenium.Automation.Common\bin\Debug\Selenium.Automation.Drivers.pdb
+C:\Users\Pedro\Desktop\SeleniumAutomation\src\Selenium.Automation.Common\obj\Debug\Selenium.Automation.Common.csprojResolveAssemblyReference.cache
+C:\Users\Pedro\Desktop\SeleniumAutomation\src\Selenium.Automation.Common\obj\Debug\Selenium.Automation.Common.dll
+C:\Users\Pedro\Desktop\SeleniumAutomation\src\Selenium.Automation.Common\obj\Debug\Selenium.Automation.Common.pdb
