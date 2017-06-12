@@ -24,13 +24,12 @@ C:\Dev2\Selenium.Automation\src\Selenium.Automation.Drivers\bin\Debug\WebDriver.
 C:\Dev2\Selenium.Automation\src\Selenium.Automation.Drivers\bin\Debug\WebDriver.xml
 C:\Dev2\Selenium.Automation\src\Selenium.Automation.Drivers\obj\Debug\Selenium.Automation.Drivers.dll
 C:\Dev2\Selenium.Automation\src\Selenium.Automation.Drivers\obj\Debug\Selenium.Automation.Drivers.pdb
-C:\Users\Pedro\Desktop\SeleniumAutomation\src\Selenium.Automation.Drivers\bin\Debug\IEDriverServer.exe
 C:\Users\Pedro\Desktop\SeleniumAutomation\src\Selenium.Automation.Drivers\bin\Debug\chromedriver.exe
 C:\Users\Pedro\Desktop\SeleniumAutomation\src\Selenium.Automation.Drivers\bin\Debug\geckodriver.exe
+C:\Users\Pedro\Desktop\SeleniumAutomation\src\Selenium.Automation.Drivers\bin\Debug\IEDriverServer.exe
 C:\Users\Pedro\Desktop\SeleniumAutomation\src\Selenium.Automation.Drivers\bin\Debug\Selenium.Automation.Drivers.dll
 C:\Users\Pedro\Desktop\SeleniumAutomation\src\Selenium.Automation.Drivers\bin\Debug\Selenium.Automation.Drivers.pdb
 C:\Users\Pedro\Desktop\SeleniumAutomation\src\Selenium.Automation.Drivers\bin\Debug\WebDriver.dll
 C:\Users\Pedro\Desktop\SeleniumAutomation\src\Selenium.Automation.Drivers\bin\Debug\WebDriver.xml
-C:\Users\Pedro\Desktop\SeleniumAutomation\src\Selenium.Automation.Drivers\obj\Debug\Selenium.Automation.Drivers.csprojResolveAssemblyReference.cache
 C:\Users\Pedro\Desktop\SeleniumAutomation\src\Selenium.Automation.Drivers\obj\Debug\Selenium.Automation.Drivers.dll
 C:\Users\Pedro\Desktop\SeleniumAutomation\src\Selenium.Automation.Drivers\obj\Debug\Selenium.Automation.Drivers.pdb
