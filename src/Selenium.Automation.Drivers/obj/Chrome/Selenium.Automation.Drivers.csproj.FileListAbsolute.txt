@@ -1,0 +1,8 @@
+C:\Dev\Selenium.Automation\src\Selenium.Automation.Drivers\bin\Chrome\chromedriver.exe
+C:\Dev\Selenium.Automation\src\Selenium.Automation.Drivers\bin\Chrome\geckodriver.exe
+C:\Dev\Selenium.Automation\src\Selenium.Automation.Drivers\bin\Chrome\Selenium.Automation.Drivers.dll
+C:\Dev\Selenium.Automation\src\Selenium.Automation.Drivers\bin\Chrome\Selenium.Automation.Drivers.pdb
+C:\Dev\Selenium.Automation\src\Selenium.Automation.Drivers\bin\Chrome\WebDriver.dll
+C:\Dev\Selenium.Automation\src\Selenium.Automation.Drivers\bin\Chrome\WebDriver.xml
+C:\Dev\Selenium.Automation\src\Selenium.Automation.Drivers\obj\Chrome\Selenium.Automation.Drivers.dll
+C:\Dev\Selenium.Automation\src\Selenium.Automation.Drivers\obj\Chrome\Selenium.Automation.Drivers.pdb

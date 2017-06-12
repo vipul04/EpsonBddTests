@@ -1,0 +1,11 @@
+C:\Dev\Selenium.Automation\src\Selenium.Automation.PageObjects\bin\Firefox\chromedriver.exe
+C:\Dev\Selenium.Automation\src\Selenium.Automation.PageObjects\bin\Firefox\geckodriver.exe
+C:\Dev\Selenium.Automation\src\Selenium.Automation.PageObjects\bin\Firefox\Selenium.Automation.PageObjects.dll
+C:\Dev\Selenium.Automation\src\Selenium.Automation.PageObjects\bin\Firefox\Selenium.Automation.Common.dll
+C:\Dev\Selenium.Automation\src\Selenium.Automation.PageObjects\bin\Firefox\Selenium.Automation.Drivers.dll
+C:\Dev\Selenium.Automation\src\Selenium.Automation.PageObjects\bin\Firefox\WebDriver.dll
+C:\Dev\Selenium.Automation\src\Selenium.Automation.PageObjects\bin\Firefox\WebDriver.Support.dll
+C:\Dev\Selenium.Automation\src\Selenium.Automation.PageObjects\bin\Firefox\WebDriver.xml
+C:\Dev\Selenium.Automation\src\Selenium.Automation.PageObjects\bin\Firefox\WebDriver.Support.xml
+C:\Dev\Selenium.Automation\src\Selenium.Automation.PageObjects\obj\Firefox\Selenium.Automation.PageObjects.csprojResolveAssemblyReference.cache
+C:\Dev\Selenium.Automation\src\Selenium.Automation.PageObjects\obj\Firefox\Selenium.Automation.PageObjects.dll

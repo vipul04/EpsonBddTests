@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Selenium.Automation.Spec", "src\Selenium.Automation.Spec\Selenium.Automation.Spec.csproj", "{1B7F52A1-DE3F-4FFF-9A90-BE6E960CAE80}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Selenium.Automation.PageObjects", "src\Selenium.Automation.PageObjects\Selenium.Automation.PageObjects.csproj", "{945E6E47-B4A7-4B2C-AFE7-E40D4354D366}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Selenium.Automation.Drivers", "src\Selenium.Automation.Drivers\Selenium.Automation.Drivers.csproj", "{AE29248C-18F6-43EC-9706-AE1CE9666F84}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Selenium.Automation.Common", "src\Selenium.Automation.Common\Selenium.Automation.Common.csproj", "{1B569D72-EACB-43D2-A446-76EC116691C6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Chrome|Any CPU = Chrome|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		Firefox|Any CPU = Firefox|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B7F52A1-DE3F-4FFF-9A90-BE6E960CAE80}.Chrome|Any CPU.ActiveCfg = Chrome|Any CPU
+		{1B7F52A1-DE3F-4FFF-9A90-BE6E960CAE80}.Chrome|Any CPU.Build.0 = Chrome|Any CPU
+		{1B7F52A1-DE3F-4FFF-9A90-BE6E960CAE80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B7F52A1-DE3F-4FFF-9A90-BE6E960CAE80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B7F52A1-DE3F-4FFF-9A90-BE6E960CAE80}.Firefox|Any CPU.ActiveCfg = Firefox|Any CPU
+		{1B7F52A1-DE3F-4FFF-9A90-BE6E960CAE80}.Firefox|Any CPU.Build.0 = Firefox|Any CPU
+		{1B7F52A1-DE3F-4FFF-9A90-BE6E960CAE80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B7F52A1-DE3F-4FFF-9A90-BE6E960CAE80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{945E6E47-B4A7-4B2C-AFE7-E40D4354D366}.Chrome|Any CPU.ActiveCfg = Chrome|Any CPU
+		{945E6E47-B4A7-4B2C-AFE7-E40D4354D366}.Chrome|Any CPU.Build.0 = Chrome|Any CPU
+		{945E6E47-B4A7-4B2C-AFE7-E40D4354D366}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{945E6E47-B4A7-4B2C-AFE7-E40D4354D366}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{945E6E47-B4A7-4B2C-AFE7-E40D4354D366}.Firefox|Any CPU.ActiveCfg = Firefox|Any CPU
+		{945E6E47-B4A7-4B2C-AFE7-E40D4354D366}.Firefox|Any CPU.Build.0 = Firefox|Any CPU
+		{945E6E47-B4A7-4B2C-AFE7-E40D4354D366}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{945E6E47-B4A7-4B2C-AFE7-E40D4354D366}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE29248C-18F6-43EC-9706-AE1CE9666F84}.Chrome|Any CPU.ActiveCfg = Chrome|Any CPU
+		{AE29248C-18F6-43EC-9706-AE1CE9666F84}.Chrome|Any CPU.Build.0 = Chrome|Any CPU
+		{AE29248C-18F6-43EC-9706-AE1CE9666F84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE29248C-18F6-43EC-9706-AE1CE9666F84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE29248C-18F6-43EC-9706-AE1CE9666F84}.Firefox|Any CPU.ActiveCfg = Firefox|Any CPU
+		{AE29248C-18F6-43EC-9706-AE1CE9666F84}.Firefox|Any CPU.Build.0 = Firefox|Any CPU
+		{AE29248C-18F6-43EC-9706-AE1CE9666F84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE29248C-18F6-43EC-9706-AE1CE9666F84}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B569D72-EACB-43D2-A446-76EC116691C6}.Chrome|Any CPU.ActiveCfg = Chrome|Any CPU
+		{1B569D72-EACB-43D2-A446-76EC116691C6}.Chrome|Any CPU.Build.0 = Chrome|Any CPU
+		{1B569D72-EACB-43D2-A446-76EC116691C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B569D72-EACB-43D2-A446-76EC116691C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B569D72-EACB-43D2-A446-76EC116691C6}.Firefox|Any CPU.ActiveCfg = Firefox|Any CPU
+		{1B569D72-EACB-43D2-A446-76EC116691C6}.Firefox|Any CPU.Build.0 = Firefox|Any CPU
+		{1B569D72-EACB-43D2-A446-76EC116691C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B569D72-EACB-43D2-A446-76EC116691C6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,1 @@
+C:\Dev\Selenium.Automation\src\Selenium.Automation.Drivers\obj\Release\Selenium.Automation.Drivers.csprojResolveAssemblyReference.cache

@@ -1,0 +1,7 @@
+C:\Dev\Selenium.Automation\src\Selenium.Automation.Drivers\bin\Firefox\chromedriver.exe
+C:\Dev\Selenium.Automation\src\Selenium.Automation.Drivers\bin\Firefox\geckodriver.exe
+C:\Dev\Selenium.Automation\src\Selenium.Automation.Drivers\bin\Firefox\Selenium.Automation.Drivers.dll
+C:\Dev\Selenium.Automation\src\Selenium.Automation.Drivers\bin\Firefox\WebDriver.dll
+C:\Dev\Selenium.Automation\src\Selenium.Automation.Drivers\bin\Firefox\WebDriver.xml
+C:\Dev\Selenium.Automation\src\Selenium.Automation.Drivers\obj\Firefox\Selenium.Automation.Drivers.csprojResolveAssemblyReference.cache
+C:\Dev\Selenium.Automation\src\Selenium.Automation.Drivers\obj\Firefox\Selenium.Automation.Drivers.dll

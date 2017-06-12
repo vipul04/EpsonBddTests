@@ -1,0 +1,15 @@
+C:\Dev\Selenium.Automation\src\Selenium.Automation.PageObjects\bin\Chrome\chromedriver.exe
+C:\Dev\Selenium.Automation\src\Selenium.Automation.PageObjects\bin\Chrome\geckodriver.exe
+C:\Dev\Selenium.Automation\src\Selenium.Automation.PageObjects\bin\Chrome\Selenium.Automation.PageObjects.dll
+C:\Dev\Selenium.Automation\src\Selenium.Automation.PageObjects\bin\Chrome\Selenium.Automation.PageObjects.pdb
+C:\Dev\Selenium.Automation\src\Selenium.Automation.PageObjects\bin\Chrome\Selenium.Automation.Common.dll
+C:\Dev\Selenium.Automation\src\Selenium.Automation.PageObjects\bin\Chrome\Selenium.Automation.Drivers.dll
+C:\Dev\Selenium.Automation\src\Selenium.Automation.PageObjects\bin\Chrome\WebDriver.dll
+C:\Dev\Selenium.Automation\src\Selenium.Automation.PageObjects\bin\Chrome\WebDriver.Support.dll
+C:\Dev\Selenium.Automation\src\Selenium.Automation.PageObjects\bin\Chrome\Selenium.Automation.Common.pdb
+C:\Dev\Selenium.Automation\src\Selenium.Automation.PageObjects\bin\Chrome\Selenium.Automation.Drivers.pdb
+C:\Dev\Selenium.Automation\src\Selenium.Automation.PageObjects\bin\Chrome\WebDriver.xml
+C:\Dev\Selenium.Automation\src\Selenium.Automation.PageObjects\bin\Chrome\WebDriver.Support.xml
+C:\Dev\Selenium.Automation\src\Selenium.Automation.PageObjects\obj\Chrome\Selenium.Automation.PageObjects.csprojResolveAssemblyReference.cache
+C:\Dev\Selenium.Automation\src\Selenium.Automation.PageObjects\obj\Chrome\Selenium.Automation.PageObjects.dll
+C:\Dev\Selenium.Automation\src\Selenium.Automation.PageObjects\obj\Chrome\Selenium.Automation.PageObjects.pdb

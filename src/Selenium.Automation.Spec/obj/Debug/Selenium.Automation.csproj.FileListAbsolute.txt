@@ -1,0 +1,12 @@
+C:\Dev\Selenium.Automation\Selenium.Automation\bin\Debug\Selenium.Automation.dll.config
+C:\Dev\Selenium.Automation\Selenium.Automation\bin\Debug\Selenium.Automation.dll
+C:\Dev\Selenium.Automation\Selenium.Automation\bin\Debug\Selenium.Automation.pdb
+C:\Dev\Selenium.Automation\Selenium.Automation\bin\Debug\ImpromptuInterface.dll
+C:\Dev\Selenium.Automation\Selenium.Automation\bin\Debug\nunit.framework.dll
+C:\Dev\Selenium.Automation\Selenium.Automation\bin\Debug\SpecFlow.Assist.Dynamic.dll
+C:\Dev\Selenium.Automation\Selenium.Automation\bin\Debug\TechTalk.SpecFlow.dll
+C:\Dev\Selenium.Automation\Selenium.Automation\bin\Debug\ImpromptuInterface.xml
+C:\Dev\Selenium.Automation\Selenium.Automation\bin\Debug\nunit.framework.xml
+C:\Dev\Selenium.Automation\Selenium.Automation\obj\Debug\Selenium.Automation.csprojResolveAssemblyReference.cache
+C:\Dev\Selenium.Automation\Selenium.Automation\obj\Debug\Selenium.Automation.dll
+C:\Dev\Selenium.Automation\Selenium.Automation\obj\Debug\Selenium.Automation.pdb
