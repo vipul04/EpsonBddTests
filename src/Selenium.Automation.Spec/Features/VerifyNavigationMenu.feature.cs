@@ -83,6 +83,8 @@ this.ScenarioSetup(scenarioInfo);
             table1.AddRow(new string[] {
                         "SERVICES"});
             table1.AddRow(new string[] {
+                        "PARTNERS"});
+            table1.AddRow(new string[] {
                         "INDUSTRIES"});
             table1.AddRow(new string[] {
                         "INSIGHTS"});

@@ -30,7 +30,7 @@ namespace Selenium.Automation.PageObjects.Pages
 
         #region Elements
 
-        [FindsBy(How = How.CssSelector, Using = ".contact .CTA-banner__callout")]
+        [FindsBy(How = How.CssSelector, Using = ".footer .footer-content:nth-of-type(1) .CTA-banner__callout")]
         private IWebElement ContactUsCTA { get; set; }
 
         [FindsBy(How = How.Id, Using = "FirstName")]

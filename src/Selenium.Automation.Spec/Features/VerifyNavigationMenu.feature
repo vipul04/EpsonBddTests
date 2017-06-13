@@ -10,6 +10,7 @@ Scenario: Verify Navigation Menu Items
 		| ABOUT      |
 		| WORK       |
 		| SERVICES   |
+		| PARTNERS   |
 		| INDUSTRIES |
 		| INSIGHTS   |
 		| CAREERS    |
