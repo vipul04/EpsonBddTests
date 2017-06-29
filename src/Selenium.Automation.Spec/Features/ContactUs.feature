@@ -7,5 +7,5 @@ Scenario: Contact Us
 	Given I am on the homepage
 	When I enter the following information
 		| First Name | Last Name | Company  | Title | Phone | Email           | About        | Message     |
-		| Harry      | Potter    | Hogwarts | Mrs   | 00000 | hp@hogwarts.com | New Business | Hello World |
+		| Harry      | Potter    | Hogwarts | Mr    | 00000 | hp@hogwarts.com | New Business | Hello World |
 	Then I should be able to submit
