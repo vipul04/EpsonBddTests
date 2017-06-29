@@ -7,3 +7,13 @@ C:\Dev\Selenium.Automation\src\Selenium.Automation.Common\bin\Chrome\Selenium.Au
 C:\Dev\Selenium.Automation\src\Selenium.Automation.Common\obj\Chrome\Selenium.Automation.Common.csprojResolveAssemblyReference.cache
 C:\Dev\Selenium.Automation\src\Selenium.Automation.Common\obj\Chrome\Selenium.Automation.Common.dll
 C:\Dev\Selenium.Automation\src\Selenium.Automation.Common\obj\Chrome\Selenium.Automation.Common.pdb
+C:\Dev\SeleniumAutomation\src\Selenium.Automation.Common\bin\Chrome\chromedriver.exe
+C:\Dev\SeleniumAutomation\src\Selenium.Automation.Common\bin\Chrome\geckodriver.exe
+C:\Dev\SeleniumAutomation\src\Selenium.Automation.Common\bin\Chrome\IEDriverServer.exe
+C:\Dev\SeleniumAutomation\src\Selenium.Automation.Common\bin\Chrome\Selenium.Automation.Common.dll
+C:\Dev\SeleniumAutomation\src\Selenium.Automation.Common\bin\Chrome\Selenium.Automation.Common.pdb
+C:\Dev\SeleniumAutomation\src\Selenium.Automation.Common\bin\Chrome\Selenium.Automation.Drivers.dll
+C:\Dev\SeleniumAutomation\src\Selenium.Automation.Common\bin\Chrome\Selenium.Automation.Drivers.pdb
+C:\Dev\SeleniumAutomation\src\Selenium.Automation.Common\obj\Chrome\Selenium.Automation.Common.csprojResolveAssemblyReference.cache
+C:\Dev\SeleniumAutomation\src\Selenium.Automation.Common\obj\Chrome\Selenium.Automation.Common.dll
+C:\Dev\SeleniumAutomation\src\Selenium.Automation.Common\obj\Chrome\Selenium.Automation.Common.pdb

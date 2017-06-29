@@ -9,3 +9,15 @@ C:\Dev\Selenium.Automation\src\Selenium.Automation.PageObjects\bin\Firefox\WebDr
 C:\Dev\Selenium.Automation\src\Selenium.Automation.PageObjects\bin\Firefox\WebDriver.Support.xml
 C:\Dev\Selenium.Automation\src\Selenium.Automation.PageObjects\obj\Firefox\Selenium.Automation.PageObjects.csprojResolveAssemblyReference.cache
 C:\Dev\Selenium.Automation\src\Selenium.Automation.PageObjects\obj\Firefox\Selenium.Automation.PageObjects.dll
+C:\Dev\SeleniumAutomation\src\Selenium.Automation.PageObjects\bin\Firefox\chromedriver.exe
+C:\Dev\SeleniumAutomation\src\Selenium.Automation.PageObjects\bin\Firefox\geckodriver.exe
+C:\Dev\SeleniumAutomation\src\Selenium.Automation.PageObjects\bin\Firefox\IEDriverServer.exe
+C:\Dev\SeleniumAutomation\src\Selenium.Automation.PageObjects\bin\Firefox\Selenium.Automation.PageObjects.dll
+C:\Dev\SeleniumAutomation\src\Selenium.Automation.PageObjects\bin\Firefox\Selenium.Automation.Common.dll
+C:\Dev\SeleniumAutomation\src\Selenium.Automation.PageObjects\bin\Firefox\Selenium.Automation.Drivers.dll
+C:\Dev\SeleniumAutomation\src\Selenium.Automation.PageObjects\bin\Firefox\WebDriver.dll
+C:\Dev\SeleniumAutomation\src\Selenium.Automation.PageObjects\bin\Firefox\WebDriver.Support.dll
+C:\Dev\SeleniumAutomation\src\Selenium.Automation.PageObjects\bin\Firefox\WebDriver.xml
+C:\Dev\SeleniumAutomation\src\Selenium.Automation.PageObjects\bin\Firefox\WebDriver.Support.xml
+C:\Dev\SeleniumAutomation\src\Selenium.Automation.PageObjects\obj\Firefox\Selenium.Automation.PageObjects.csprojResolveAssemblyReference.cache
+C:\Dev\SeleniumAutomation\src\Selenium.Automation.PageObjects\obj\Firefox\Selenium.Automation.PageObjects.dll
