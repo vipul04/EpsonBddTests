@@ -1,4 +1,6 @@
-﻿using Selenium.Automation.Common.Selenium.Base;
+﻿using OpenQA.Selenium;
+using OpenQA.Selenium.Support.PageObjects;
+using Selenium.Automation.Common.Selenium.Base;
 
 namespace Selenium.Automation.PageObjects.Pages
 {
@@ -18,7 +20,7 @@ namespace Selenium.Automation.PageObjects.Pages
 
         protected override string PageTitle
         {
-            get { return "Where Experiences are Engineered"; }
+            get { return "Welcome to Epson United Kingdom"; }
         }
 
         #endregion

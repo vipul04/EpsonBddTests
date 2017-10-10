@@ -17,3 +17,15 @@ C:\Dev\SeleniumAutomation\src\Selenium.Automation.Common\bin\Chrome\Selenium.Aut
 C:\Dev\SeleniumAutomation\src\Selenium.Automation.Common\obj\Chrome\Selenium.Automation.Common.csprojResolveAssemblyReference.cache
 C:\Dev\SeleniumAutomation\src\Selenium.Automation.Common\obj\Chrome\Selenium.Automation.Common.dll
 C:\Dev\SeleniumAutomation\src\Selenium.Automation.Common\obj\Chrome\Selenium.Automation.Common.pdb
+C:\Users\Vipul Vora\Documents\SeleniumAutomation\src\Selenium.Automation.Common\bin\Chrome\chromedriver.exe
+C:\Users\Vipul Vora\Documents\SeleniumAutomation\src\Selenium.Automation.Common\bin\Chrome\geckodriver.exe
+C:\Users\Vipul Vora\Documents\SeleniumAutomation\src\Selenium.Automation.Common\bin\Chrome\IEDriverServer.exe
+C:\Users\Vipul Vora\Documents\SeleniumAutomation\src\Selenium.Automation.Common\bin\Chrome\Selenium.Automation.Common.dll
+C:\Users\Vipul Vora\Documents\SeleniumAutomation\src\Selenium.Automation.Common\bin\Chrome\Selenium.Automation.Common.pdb
+C:\Users\Vipul Vora\Documents\SeleniumAutomation\src\Selenium.Automation.Common\bin\Chrome\Selenium.Automation.Drivers.dll
+C:\Users\Vipul Vora\Documents\SeleniumAutomation\src\Selenium.Automation.Common\bin\Chrome\WebDriver.Support.dll
+C:\Users\Vipul Vora\Documents\SeleniumAutomation\src\Selenium.Automation.Common\bin\Chrome\Selenium.Automation.Drivers.pdb
+C:\Users\Vipul Vora\Documents\SeleniumAutomation\src\Selenium.Automation.Common\bin\Chrome\WebDriver.Support.xml
+C:\Users\Vipul Vora\Documents\SeleniumAutomation\src\Selenium.Automation.Common\obj\Chrome\Selenium.Automation.Common.csprojResolveAssemblyReference.cache
+C:\Users\Vipul Vora\Documents\SeleniumAutomation\src\Selenium.Automation.Common\obj\Chrome\Selenium.Automation.Common.dll
+C:\Users\Vipul Vora\Documents\SeleniumAutomation\src\Selenium.Automation.Common\obj\Chrome\Selenium.Automation.Common.pdb

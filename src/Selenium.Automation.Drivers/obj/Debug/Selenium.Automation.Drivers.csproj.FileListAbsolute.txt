@@ -43,3 +43,21 @@ C:\Dev\SeleniumAutomation\src\Selenium.Automation.Drivers\bin\Debug\WebDriver.xm
 C:\Dev\SeleniumAutomation\src\Selenium.Automation.Drivers\obj\Debug\Selenium.Automation.Drivers.csprojResolveAssemblyReference.cache
 C:\Dev\SeleniumAutomation\src\Selenium.Automation.Drivers\obj\Debug\Selenium.Automation.Drivers.dll
 C:\Dev\SeleniumAutomation\src\Selenium.Automation.Drivers\obj\Debug\Selenium.Automation.Drivers.pdb
+C:\Users\Vipul Vora\Documents\SeleniumAutomation\src\Selenium.Automation.Drivers\bin\Debug\chromedriver.exe
+C:\Users\Vipul Vora\Documents\SeleniumAutomation\src\Selenium.Automation.Drivers\bin\Debug\geckodriver.exe
+C:\Users\Vipul Vora\Documents\SeleniumAutomation\src\Selenium.Automation.Drivers\bin\Debug\IEDriverServer.exe
+C:\Users\Vipul Vora\Documents\SeleniumAutomation\src\Selenium.Automation.Drivers\bin\Debug\Selenium.Automation.Drivers.dll
+C:\Users\Vipul Vora\Documents\SeleniumAutomation\src\Selenium.Automation.Drivers\bin\Debug\Selenium.Automation.Drivers.pdb
+C:\Users\Vipul Vora\Documents\SeleniumAutomation\src\Selenium.Automation.Drivers\bin\Debug\WebDriver.dll
+C:\Users\Vipul Vora\Documents\SeleniumAutomation\src\Selenium.Automation.Drivers\bin\Debug\WebDriver.xml
+C:\Users\Vipul Vora\Documents\SeleniumAutomation\src\Selenium.Automation.Drivers\obj\Debug\Selenium.Automation.Drivers.dll
+C:\Users\Vipul Vora\Documents\SeleniumAutomation\src\Selenium.Automation.Drivers\obj\Debug\Selenium.Automation.Drivers.pdb
+C:\Users\Vipul Vora\Documents\EpsonBddTests\src\Selenium.Automation.Drivers\bin\Debug\chromedriver.exe
+C:\Users\Vipul Vora\Documents\EpsonBddTests\src\Selenium.Automation.Drivers\bin\Debug\geckodriver.exe
+C:\Users\Vipul Vora\Documents\EpsonBddTests\src\Selenium.Automation.Drivers\bin\Debug\IEDriverServer.exe
+C:\Users\Vipul Vora\Documents\EpsonBddTests\src\Selenium.Automation.Drivers\bin\Debug\Selenium.Automation.Drivers.dll
+C:\Users\Vipul Vora\Documents\EpsonBddTests\src\Selenium.Automation.Drivers\bin\Debug\Selenium.Automation.Drivers.pdb
+C:\Users\Vipul Vora\Documents\EpsonBddTests\src\Selenium.Automation.Drivers\bin\Debug\WebDriver.dll
+C:\Users\Vipul Vora\Documents\EpsonBddTests\src\Selenium.Automation.Drivers\bin\Debug\WebDriver.xml
+C:\Users\Vipul Vora\Documents\EpsonBddTests\src\Selenium.Automation.Drivers\obj\Debug\Selenium.Automation.Drivers.dll
+C:\Users\Vipul Vora\Documents\EpsonBddTests\src\Selenium.Automation.Drivers\obj\Debug\Selenium.Automation.Drivers.pdb

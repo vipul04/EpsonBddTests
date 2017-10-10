@@ -29,3 +29,19 @@ C:\Dev\SeleniumAutomation\src\Selenium.Automation.PageObjects\bin\Chrome\WebDriv
 C:\Dev\SeleniumAutomation\src\Selenium.Automation.PageObjects\obj\Chrome\Selenium.Automation.PageObjects.csprojResolveAssemblyReference.cache
 C:\Dev\SeleniumAutomation\src\Selenium.Automation.PageObjects\obj\Chrome\Selenium.Automation.PageObjects.dll
 C:\Dev\SeleniumAutomation\src\Selenium.Automation.PageObjects\obj\Chrome\Selenium.Automation.PageObjects.pdb
+C:\Users\Vipul Vora\Documents\SeleniumAutomation\src\Selenium.Automation.PageObjects\bin\Chrome\chromedriver.exe
+C:\Users\Vipul Vora\Documents\SeleniumAutomation\src\Selenium.Automation.PageObjects\bin\Chrome\geckodriver.exe
+C:\Users\Vipul Vora\Documents\SeleniumAutomation\src\Selenium.Automation.PageObjects\bin\Chrome\IEDriverServer.exe
+C:\Users\Vipul Vora\Documents\SeleniumAutomation\src\Selenium.Automation.PageObjects\bin\Chrome\Selenium.Automation.PageObjects.dll
+C:\Users\Vipul Vora\Documents\SeleniumAutomation\src\Selenium.Automation.PageObjects\bin\Chrome\Selenium.Automation.PageObjects.pdb
+C:\Users\Vipul Vora\Documents\SeleniumAutomation\src\Selenium.Automation.PageObjects\bin\Chrome\Selenium.Automation.Common.dll
+C:\Users\Vipul Vora\Documents\SeleniumAutomation\src\Selenium.Automation.PageObjects\bin\Chrome\Selenium.Automation.Drivers.dll
+C:\Users\Vipul Vora\Documents\SeleniumAutomation\src\Selenium.Automation.PageObjects\bin\Chrome\WebDriver.dll
+C:\Users\Vipul Vora\Documents\SeleniumAutomation\src\Selenium.Automation.PageObjects\bin\Chrome\WebDriver.Support.dll
+C:\Users\Vipul Vora\Documents\SeleniumAutomation\src\Selenium.Automation.PageObjects\bin\Chrome\Selenium.Automation.Common.pdb
+C:\Users\Vipul Vora\Documents\SeleniumAutomation\src\Selenium.Automation.PageObjects\bin\Chrome\Selenium.Automation.Drivers.pdb
+C:\Users\Vipul Vora\Documents\SeleniumAutomation\src\Selenium.Automation.PageObjects\bin\Chrome\WebDriver.xml
+C:\Users\Vipul Vora\Documents\SeleniumAutomation\src\Selenium.Automation.PageObjects\bin\Chrome\WebDriver.Support.xml
+C:\Users\Vipul Vora\Documents\SeleniumAutomation\src\Selenium.Automation.PageObjects\obj\Chrome\Selenium.Automation.PageObjects.csprojResolveAssemblyReference.cache
+C:\Users\Vipul Vora\Documents\SeleniumAutomation\src\Selenium.Automation.PageObjects\obj\Chrome\Selenium.Automation.PageObjects.dll
+C:\Users\Vipul Vora\Documents\SeleniumAutomation\src\Selenium.Automation.PageObjects\obj\Chrome\Selenium.Automation.PageObjects.pdb

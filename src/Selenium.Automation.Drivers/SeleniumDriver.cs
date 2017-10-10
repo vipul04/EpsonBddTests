@@ -6,7 +6,7 @@ using System;
 
 namespace Selenium.Automation.Drivers
 {
-    public static class SeleniumDriver
+    public static class SeleniumDriver 
     {
         #region Properties
 
@@ -44,7 +44,7 @@ namespace Selenium.Automation.Drivers
             }
 
             WebDriver.Manage().Timeouts().ImplicitWait = TimeSpan.FromSeconds(10);
-            WebDriver.Manage().Timeouts().PageLoad = TimeSpan.FromSeconds(10);
+            WebDriver.Manage().Timeouts().PageLoad = TimeSpan.FromSeconds(30);
             WebDriver.Manage().Window.Maximize();
 
             return WebDriver;
