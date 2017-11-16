@@ -107,7 +107,7 @@ namespace Selenium.Automation.Common.Selenium.Base
                 WaitForElement(linkText);
                 IWebElement link = SeleniumDriver.WebDriver.FindElement(By.LinkText(linkText));
                 IJavaScriptExecutor jse = (IJavaScriptExecutor)SeleniumDriver.WebDriver;
-                jse.ExecuteScript("arguments[0].scrollIntoView();", link);
+                jse.ExecuteScript("arguments[0].scrollIntoView(false);", link);
                 link.Click();
             }
         }

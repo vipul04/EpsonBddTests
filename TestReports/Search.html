@@ -1,0 +1,397 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"[]>
+<html xml:lang="en" xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>Search</title>
+    <link rel="stylesheet" href="css/master.css" type="text/css" />
+    <link rel="stylesheet" href="css/print.css" type="text/css" media="print" />
+    <script src="js/jquery.js" type="text/javascript"></script>
+    <script src="js/scripts.js" type="text/javascript"></script>
+    <script type="text/javascript">
+$(document).ready(function() {
+  initializeToc();
+});
+</script>
+    <!-- We are using Font Awesome - http://fortawesome.github.com/Font-Awesome - licensed under CC BY 3.0 -->
+  </head>
+  <body>
+    <div id="container">
+      <div id="top" />
+      <div id="toc">
+        <p class="tocCollapser" title="Collapse Table of Content">«</p>
+        <ul class="features">
+          <li class="file" id="root">
+            <a href="index.html">Home</a>
+          </li>
+          <li class="file">
+            <span class="current">Search</span>
+            <span class="float-right">
+              <i class="icon-warning-sign inconclusive" title="Inconclusive"> </i>
+            </span>
+          </li>
+          <li>
+            <div class="directory">
+              <a href="Footer/index.html">Footer</a>
+            </div>
+            <ul class="features">
+              <li class="file">
+                <a href="Footer/FooterNavigation.html">Navigate to the footer links</a>
+                <span class="float-right">
+                  <i class="icon-warning-sign inconclusive" title="Inconclusive"> </i>
+                </span>
+              </li>
+            </ul>
+          </li>
+          <li>
+            <div class="directory">
+              <a href="HeaderNavMenu/index.html">Header Nav Menu</a>
+            </div>
+            <ul class="features">
+              <li class="file">
+                <a href="HeaderNavMenu/InkStoreSupportNav.html">Navigate to Ink, Store &amp; Support nav menu pages</a>
+                <span class="float-right">
+                  <i class="icon-warning-sign inconclusive" title="Inconclusive"> </i>
+                </span>
+              </li>
+              <li class="file">
+                <a href="HeaderNavMenu/AboutNav.html">Navigate to the About nav menu pages</a>
+                <span class="float-right">
+                  <i class="icon-warning-sign inconclusive" title="Inconclusive"> </i>
+                </span>
+              </li>
+              <li class="file">
+                <a href="HeaderNavMenu/BusinessNav.html">Navigate to the Business nav menu pages</a>
+                <span class="float-right">
+                  <i class="icon-warning-sign inconclusive" title="Inconclusive"> </i>
+                </span>
+              </li>
+              <li class="file">
+                <a href="HeaderNavMenu/HomeNav.html">Navigate to the Home nav menu pages</a>
+                <span class="float-right">
+                  <i class="icon-minus-sign failed" title="Failed"> </i>
+                </span>
+              </li>
+              <li class="file">
+                <a href="HeaderNavMenu/ProductsNav.html">Navigate to the Product nav menu pages</a>
+                <span class="float-right">
+                  <i class="icon-warning-sign inconclusive" title="Inconclusive"> </i>
+                </span>
+              </li>
+            </ul>
+          </li>
+        </ul>
+      </div>
+      <div id="feature">
+        <div class="float-right">
+          <i class="icon-warning-sign inconclusive" title="Inconclusive"> </i>
+        </div>
+        <h1>Search</h1>
+        <div class="description">
+          <p>As a user 
+I should be able to navigate to and search the site 
+So that I can find what I require </p>
+        </div>
+        <ul id="scenarios">
+          <li class="scenario">
+            <div class="float-right">
+              <i class="icon-warning-sign inconclusive" title="Inconclusive"> </i>
+            </div>
+            <div class="scenario-heading" id="navigate-to-search-pages-via-quick-links">
+              <h2>Navigate to search pages via quick links</h2>
+            </div>
+            <div class="steps">
+              <ul>
+                <li class="step">
+                  <span class="keyword">Given </span>I am on the homepage</li>
+                <li class="step">
+                  <span class="keyword">And </span>I select the search icon</li>
+                <li class="step">
+                  <span class="keyword">When </span>I select the link "&lt;Link&gt;"</li>
+                <li class="step">
+                  <span class="keyword">Then </span>I should be on the "&lt;Link&gt;" page</li>
+              </ul>
+            </div>
+            <a class="scenario-link" href="javascript:showImageLink('navigate-to-search-pages-via-quick-links')" title="Copy scenario link to clipboard.">
+              <i class="icon-link"> </i>
+            </a>
+            <div>
+              <div class="examples">
+                <h3>Examples: </h3>
+                <div class="table_container">
+                  <table class="datatable">
+                    <thead>
+                      <tr>
+                        <th>Link</th>
+                        <th> </th>
+                      </tr>
+                    </thead>
+                    <tbody>
+                      <tr>
+                        <td>Find your product</td>
+                        <td>
+                          <div class="float-right">
+                            <i class="icon-warning-sign inconclusive" title="Inconclusive"> </i>
+                          </div>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td>Ink &amp; Supplies</td>
+                        <td>
+                          <div class="float-right">
+                            <i class="icon-warning-sign inconclusive" title="Inconclusive"> </i>
+                          </div>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td>Drivers &amp; Support</td>
+                        <td>
+                          <div class="float-right">
+                            <i class="icon-warning-sign inconclusive" title="Inconclusive"> </i>
+                          </div>
+                        </td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </div>
+              </div>
+            </div>
+          </li>
+          <li class="scenario">
+            <div class="float-right">
+              <i class="icon-warning-sign inconclusive" title="Inconclusive"> </i>
+            </div>
+            <div class="scenario-heading" id="navigate-to-find-your-product-page-and-search-for-product">
+              <h2>Navigate to Find your product page and search for product</h2>
+            </div>
+            <div class="steps">
+              <ul>
+                <li class="step">
+                  <span class="keyword">Given </span>I am on the homepage</li>
+                <li class="step">
+                  <span class="keyword">And </span>I go to "Find your product" search page</li>
+                <li class="step">
+                  <span class="keyword">And </span>I search for product "&lt;Product&gt;"</li>
+                <li class="step">
+                  <span class="keyword">When </span>I select the link "&lt;Product&gt;"</li>
+                <li class="step">
+                  <span class="keyword">Then </span>I should be on the product page for "&lt;Product&gt;"</li>
+              </ul>
+            </div>
+            <a class="scenario-link" href="javascript:showImageLink('navigate-to-find-your-product-page-and-search-for-product')" title="Copy scenario link to clipboard.">
+              <i class="icon-link"> </i>
+            </a>
+            <div>
+              <div class="examples">
+                <h3>Examples: </h3>
+                <div class="table_container">
+                  <table class="datatable">
+                    <thead>
+                      <tr>
+                        <th>Product</th>
+                        <th> </th>
+                      </tr>
+                    </thead>
+                    <tbody>
+                      <tr>
+                        <td>WorkForce Pro WF-4740DTWF</td>
+                        <td>
+                          <div class="float-right">
+                            <i class="icon-warning-sign inconclusive" title="Inconclusive"> </i>
+                          </div>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td>Moverio BT-200</td>
+                        <td>
+                          <div class="float-right">
+                            <i class="icon-warning-sign inconclusive" title="Inconclusive"> </i>
+                          </div>
+                        </td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </div>
+              </div>
+            </div>
+          </li>
+          <li class="scenario">
+            <div class="float-right">
+              <i class="icon-warning-sign inconclusive" title="Inconclusive"> </i>
+            </div>
+            <div class="scenario-heading" id="navigate-to-find-your-product-page-and-choose-product">
+              <h2>Navigate to Find your product page and choose product</h2>
+            </div>
+            <div class="steps">
+              <ul>
+                <li class="step">
+                  <span class="keyword">Given </span>I am on the homepage</li>
+                <li class="step">
+                  <span class="keyword">And </span>I go to "Find your product" search page</li>
+                <li class="step">
+                  <span class="keyword">And </span>I select the link "&lt;ProductType&gt;"</li>
+                <li class="step">
+                  <span class="keyword">And </span>I select the link "&lt;ProductCategory&gt;"</li>
+                <li class="step">
+                  <span class="keyword">When </span>I select the link "&lt;Product&gt;"</li>
+                <li class="step">
+                  <span class="keyword">Then </span>I should be on the product page for "&lt;Product&gt;"</li>
+              </ul>
+            </div>
+            <a class="scenario-link" href="javascript:showImageLink('navigate-to-find-your-product-page-and-choose-product')" title="Copy scenario link to clipboard.">
+              <i class="icon-link"> </i>
+            </a>
+            <div>
+              <div class="examples">
+                <h3>Examples: </h3>
+                <div class="table_container">
+                  <table class="datatable">
+                    <thead>
+                      <tr>
+                        <th>ProductType</th>
+                        <th>ProductCategory</th>
+                        <th>Product</th>
+                        <th> </th>
+                      </tr>
+                    </thead>
+                    <tbody>
+                      <tr>
+                        <td>Projectors</td>
+                        <td>Mobile Projectors</td>
+                        <td>EB-U32</td>
+                        <td>
+                          <div class="float-right">
+                            <i class="icon-warning-sign inconclusive" title="Inconclusive"> </i>
+                          </div>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td>Scanners</td>
+                        <td>Graphics Scanner</td>
+                        <td>Expression 11000XL</td>
+                        <td>
+                          <div class="float-right">
+                            <i class="icon-warning-sign inconclusive" title="Inconclusive"> </i>
+                          </div>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td>Discproducer</td>
+                        <td></td>
+                        <td>Epson Discproducer™ PP-100IIBD</td>
+                        <td>
+                          <div class="float-right">
+                            <i class="icon-warning-sign inconclusive" title="Inconclusive"> </i>
+                          </div>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td>Wearable Technology</td>
+                        <td></td>
+                        <td>Runsense SF-810V</td>
+                        <td>
+                          <div class="float-right">
+                            <i class="icon-warning-sign inconclusive" title="Inconclusive"> </i>
+                          </div>
+                        </td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </div>
+              </div>
+            </div>
+          </li>
+          <li class="scenario">
+            <div class="float-right">
+              <i class="icon-warning-sign inconclusive" title="Inconclusive"> </i>
+            </div>
+            <div class="scenario-heading" id="navigate-to-ink-supplies-page-and-search-for-product">
+              <h2>Navigate to Ink &amp; Supplies page and search for product</h2>
+            </div>
+            <div class="steps">
+              <ul>
+                <li class="step">
+                  <span class="keyword">Given </span>I am on the homepage</li>
+                <li class="step">
+                  <span class="keyword">And </span>I go to "Ink &amp; Supplies" search page</li>
+                <li class="step">
+                  <span class="keyword">And </span>I select the link "&lt;ProductType&gt;"</li>
+                <li class="step">
+                  <span class="keyword">And </span>I search for ink or supplies "&lt;SearchTerm&gt;"</li>
+                <li class="step">
+                  <span class="keyword">When </span>I select the link "&lt;Product&gt;"</li>
+                <li class="step">
+                  <span class="keyword">Then </span>I should be on the product page for "&lt;Product&gt;"</li>
+              </ul>
+            </div>
+            <a class="scenario-link" href="javascript:showImageLink('navigate-to-ink-supplies-page-and-search-for-product')" title="Copy scenario link to clipboard.">
+              <i class="icon-link"> </i>
+            </a>
+            <div>
+              <div class="examples">
+                <h3>Examples: </h3>
+                <div class="table_container">
+                  <table class="datatable">
+                    <thead>
+                      <tr>
+                        <th>ProductType</th>
+                        <th>SearchTerm</th>
+                        <th>Product</th>
+                        <th> </th>
+                      </tr>
+                    </thead>
+                    <tbody>
+                      <tr>
+                        <td>Ink Cartridge</td>
+                        <td>T9132</td>
+                        <td>T9132 Cyan Ink Cartridge (200ml)</td>
+                        <td>
+                          <div class="float-right">
+                            <i class="icon-warning-sign inconclusive" title="Inconclusive"> </i>
+                          </div>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td>Toner</td>
+                        <td>Toner Cartridge Cyan</td>
+                        <td>Toner Cartridge Cyan2.5k</td>
+                        <td>
+                          <div class="float-right">
+                            <i class="icon-warning-sign inconclusive" title="Inconclusive"> </i>
+                          </div>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td>Ribons</td>
+                        <td>SIDM Black Ribbon Cartridge</td>
+                        <td>Epson SIDM Black Ribbon Cartridge for LX-100 (C13S015047)</td>
+                        <td>
+                          <div class="float-right">
+                            <i class="icon-warning-sign inconclusive" title="Inconclusive"> </i>
+                          </div>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td>Label Makers</td>
+                        <td>Labelworks</td>
+                        <td>LabelWorks LW-300</td>
+                        <td>
+                          <div class="float-right">
+                            <i class="icon-warning-sign inconclusive" title="Inconclusive"> </i>
+                          </div>
+                        </td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </div>
+              </div>
+            </div>
+          </li>
+        </ul>
+      </div>
+      <div id="footer">
+        <p>Generated on: 16 November 2017 12:41:26</p>
+        <p>Produced by Pickles, version 2.17.0.0</p>
+      </div>
+    </div>
+  </body>
+</html>

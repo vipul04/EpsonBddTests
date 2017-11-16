@@ -66,13 +66,20 @@ namespace Selenium.Automation.Spec.Features.HeaderNavMenu
         
         [NUnit.Framework.TestAttribute()]
         [NUnit.Framework.DescriptionAttribute("Home Page navigation to Home - Solutions for Home pages")]
+        [NUnit.Framework.CategoryAttribute("test")]
         [NUnit.Framework.TestCaseAttribute("Home & Photo", new string[0])]
         [NUnit.Framework.TestCaseAttribute("Home Cinema", new string[0])]
         [NUnit.Framework.TestCaseAttribute("Home Office", new string[0])]
         [NUnit.Framework.TestCaseAttribute("Gaming", new string[0])]
         public virtual void HomePageNavigationToHome_SolutionsForHomePages(string link, string[] exampleTags)
         {
-            TechTalk.SpecFlow.ScenarioInfo scenarioInfo = new TechTalk.SpecFlow.ScenarioInfo("Home Page navigation to Home - Solutions for Home pages", exampleTags);
+            string[] @__tags = new string[] {
+                    "test"};
+            if ((exampleTags != null))
+            {
+                @__tags = System.Linq.Enumerable.ToArray(System.Linq.Enumerable.Concat(@__tags, exampleTags));
+            }
+            TechTalk.SpecFlow.ScenarioInfo scenarioInfo = new TechTalk.SpecFlow.ScenarioInfo("Home Page navigation to Home - Solutions for Home pages", @__tags);
 #line 7
   this.ScenarioSetup(scenarioInfo);
 #line 8
@@ -120,11 +127,18 @@ namespace Selenium.Automation.Spec.Features.HeaderNavMenu
         
         [NUnit.Framework.TestAttribute()]
         [NUnit.Framework.DescriptionAttribute("Home Page navigation to Home - Apps & Services for Home pages")]
+        [NUnit.Framework.CategoryAttribute("test")]
         [NUnit.Framework.TestCaseAttribute("Apps", new string[0])]
         [NUnit.Framework.TestCaseAttribute("Epson Connect", new string[0])]
         public virtual void HomePageNavigationToHome_AppsServicesForHomePages(string link, string[] exampleTags)
         {
-            TechTalk.SpecFlow.ScenarioInfo scenarioInfo = new TechTalk.SpecFlow.ScenarioInfo("Home Page navigation to Home - Apps & Services for Home pages", exampleTags);
+            string[] @__tags = new string[] {
+                    "test"};
+            if ((exampleTags != null))
+            {
+                @__tags = System.Linq.Enumerable.ToArray(System.Linq.Enumerable.Concat(@__tags, exampleTags));
+            }
+            TechTalk.SpecFlow.ScenarioInfo scenarioInfo = new TechTalk.SpecFlow.ScenarioInfo("Home Page navigation to Home - Apps & Services for Home pages", @__tags);
 #line 40
   this.ScenarioSetup(scenarioInfo);
 #line 41

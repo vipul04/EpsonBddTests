@@ -20,7 +20,7 @@ namespace Selenium.Automation.PageObjects.Pages.HeaderNav.Business.BusinessProje
 
         protected override string PageTitle
         {
-            get { return "Epson"; }
+            get { return "Epson Mobile Projectors - Epson"; }
         }
 
         #endregion

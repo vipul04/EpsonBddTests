@@ -13,3 +13,12 @@ C:\Dev\SeleniumAutomation\src\Selenium.Automation.Common\bin\Firefox\Selenium.Au
 C:\Dev\SeleniumAutomation\src\Selenium.Automation.Common\bin\Firefox\WebDriver.xml
 C:\Dev\SeleniumAutomation\src\Selenium.Automation.Common\obj\Firefox\Selenium.Automation.Common.csprojResolveAssemblyReference.cache
 C:\Dev\SeleniumAutomation\src\Selenium.Automation.Common\obj\Firefox\Selenium.Automation.Common.dll
+C:\Users\Vipul Vora\Documents\EpsonBddTests\src\Selenium.Automation.Common\bin\Firefox\geckodriver.exe
+C:\Users\Vipul Vora\Documents\EpsonBddTests\src\Selenium.Automation.Common\bin\Firefox\chromedriver.exe
+C:\Users\Vipul Vora\Documents\EpsonBddTests\src\Selenium.Automation.Common\bin\Firefox\IEDriverServer.exe
+C:\Users\Vipul Vora\Documents\EpsonBddTests\src\Selenium.Automation.Common\bin\Firefox\Selenium.Automation.Common.dll
+C:\Users\Vipul Vora\Documents\EpsonBddTests\src\Selenium.Automation.Common\bin\Firefox\Selenium.Automation.Drivers.dll
+C:\Users\Vipul Vora\Documents\EpsonBddTests\src\Selenium.Automation.Common\bin\Firefox\WebDriver.Support.dll
+C:\Users\Vipul Vora\Documents\EpsonBddTests\src\Selenium.Automation.Common\bin\Firefox\WebDriver.Support.xml
+C:\Users\Vipul Vora\Documents\EpsonBddTests\src\Selenium.Automation.Common\obj\Firefox\Selenium.Automation.Common.csprojResolveAssemblyReference.cache
+C:\Users\Vipul Vora\Documents\EpsonBddTests\src\Selenium.Automation.Common\obj\Firefox\Selenium.Automation.Common.dll

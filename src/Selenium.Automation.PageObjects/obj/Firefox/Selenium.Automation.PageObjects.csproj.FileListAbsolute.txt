@@ -21,3 +21,15 @@ C:\Dev\SeleniumAutomation\src\Selenium.Automation.PageObjects\bin\Firefox\WebDri
 C:\Dev\SeleniumAutomation\src\Selenium.Automation.PageObjects\bin\Firefox\WebDriver.Support.xml
 C:\Dev\SeleniumAutomation\src\Selenium.Automation.PageObjects\obj\Firefox\Selenium.Automation.PageObjects.csprojResolveAssemblyReference.cache
 C:\Dev\SeleniumAutomation\src\Selenium.Automation.PageObjects\obj\Firefox\Selenium.Automation.PageObjects.dll
+C:\Users\Vipul Vora\Documents\EpsonBddTests\src\Selenium.Automation.PageObjects\bin\Firefox\chromedriver.exe
+C:\Users\Vipul Vora\Documents\EpsonBddTests\src\Selenium.Automation.PageObjects\bin\Firefox\geckodriver.exe
+C:\Users\Vipul Vora\Documents\EpsonBddTests\src\Selenium.Automation.PageObjects\bin\Firefox\IEDriverServer.exe
+C:\Users\Vipul Vora\Documents\EpsonBddTests\src\Selenium.Automation.PageObjects\bin\Firefox\Selenium.Automation.PageObjects.dll
+C:\Users\Vipul Vora\Documents\EpsonBddTests\src\Selenium.Automation.PageObjects\bin\Firefox\Selenium.Automation.Common.dll
+C:\Users\Vipul Vora\Documents\EpsonBddTests\src\Selenium.Automation.PageObjects\bin\Firefox\Selenium.Automation.Drivers.dll
+C:\Users\Vipul Vora\Documents\EpsonBddTests\src\Selenium.Automation.PageObjects\bin\Firefox\WebDriver.dll
+C:\Users\Vipul Vora\Documents\EpsonBddTests\src\Selenium.Automation.PageObjects\bin\Firefox\WebDriver.Support.dll
+C:\Users\Vipul Vora\Documents\EpsonBddTests\src\Selenium.Automation.PageObjects\bin\Firefox\WebDriver.xml
+C:\Users\Vipul Vora\Documents\EpsonBddTests\src\Selenium.Automation.PageObjects\bin\Firefox\WebDriver.Support.xml
+C:\Users\Vipul Vora\Documents\EpsonBddTests\src\Selenium.Automation.PageObjects\obj\Firefox\Selenium.Automation.PageObjects.csprojResolveAssemblyReference.cache
+C:\Users\Vipul Vora\Documents\EpsonBddTests\src\Selenium.Automation.PageObjects\obj\Firefox\Selenium.Automation.PageObjects.dll

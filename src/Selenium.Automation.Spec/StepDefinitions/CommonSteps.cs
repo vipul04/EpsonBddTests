@@ -125,8 +125,7 @@ namespace Selenium.Automation.StepDefinitions
                     Assert.IsTrue(Pages.MakeTheSwitchPage.IsAt());
                     break;
                 case "Desktop Printers":
-                    //Assert.IsTrue(Pages.DesktopPrintersPage.IsAt());
-                    Assert.IsTrue(Pages.DesktopPrintersPage.CheckRelativeURL());
+                    Assert.IsTrue(Pages.DesktopPrintersPage.IsAt());
                     break;
                 case "Workgroup Printers":
                     Assert.IsTrue(Pages.WorkgroupPrintersPage.IsAt());
@@ -138,12 +137,10 @@ namespace Selenium.Automation.StepDefinitions
                     Assert.IsTrue(Pages.ReplaceableInkPackSystemPage.IsAt());
                     break;
                 case "Large Format Printers":
-                    //Assert.IsTrue(Pages.LargeFormatPrintersPage.IsAt());
-                    Assert.IsTrue(Pages.LargeFormatPrintersPage.CheckRelativeURL());
+                    Assert.IsTrue(Pages.LargeFormatPrintersPage.IsAt());
                     break;
                 case "Label Makers":
-                    //Assert.IsTrue(Pages.LabelMakersPage.IsAt());
-                    Assert.IsTrue(Pages.LabelMakersPage.CheckRelativeURL());
+                    Assert.IsTrue(Pages.LabelMakersPage.IsAt());
                     break;
                 case "Colour Label Printers":
                     Assert.IsTrue(Pages.ColourLabelPrintersPage.IsAt());
@@ -153,12 +150,10 @@ namespace Selenium.Automation.StepDefinitions
                     Assert.IsTrue(Pages.DotMatrixPrintersPage.CheckRelativeURL());
                     break;
                 case "Mobile Projectors":
-                    //Assert.IsTrue(Pages.MobileProjectorsPage.IsAt());
-                    Assert.IsTrue(Pages.MobileProjectorsPage.CheckRelativeURL());
+                    Assert.IsTrue(Pages.MobileProjectorsPage.IsAt());
                     break;
                 case "Ultra Mobile Projectors":
-                    //Assert.IsTrue(Pages.UltraMobileProjectorsPage.IsAt());
-                    Assert.IsTrue(Pages.UltraMobileProjectorsPage.CheckRelativeURL());
+                    Assert.IsTrue(Pages.UltraMobileProjectorsPage.IsAt());
                     break;
                 case "Short Distance Projectors":
                     //Assert.IsTrue(Pages.ShortDistanceProjectorsPage.IsAt());
@@ -357,15 +352,12 @@ namespace Selenium.Automation.StepDefinitions
                     Assert.IsTrue(Pages.CareersPage.IsAt());
                     break;
                 case "Insights":
-                    //Assert.IsTrue(Pages.InsightsPage.IsAt());
                     Assert.IsTrue(Pages.InsightsPage.CheckRelativeURL());
                     break;
                 case "Newsroom":
-                    //Assert.IsTrue(Pages.NewsroomPage.IsAt());
                     Assert.IsTrue(Pages.NewsroomPage.CheckRelativeURL());
                     break;
                 case "Case Studies":
-                    //Assert.IsTrue(Pages.CaseStudiesPage.IsAt());
                     Assert.IsTrue(Pages.CaseStudiesPage.CheckRelativeURL());
                     break;
                 case "Environment":
@@ -381,11 +373,9 @@ namespace Selenium.Automation.StepDefinitions
                     Assert.IsTrue(Pages.OrderReturnPage.IsAt());
                     break;
                 case "Warranty Check":
-                    //Assert.IsTrue(Pages.WarrantyCheckPage.IsAt());
                     Assert.IsTrue(Pages.WarrantyCheckPage.CheckRelativeURL());
                     break;
                 case "CoverPlus registration":
-                    //Assert.IsTrue(Pages.CoverPlusRegistrationPage.IsAt());
                     Assert.IsTrue(Pages.CoverPlusRegistrationPage.CheckRelativeURL());
                     break;
                 case "Contact Us":
@@ -398,11 +388,9 @@ namespace Selenium.Automation.StepDefinitions
                     Assert.IsTrue(Pages.PromotionsPage.IsAt());
                     break;
                 case "Terms of sales":
-                    //Assert.IsTrue(Pages.TermsOfSalesPage.IsAt());
                     Assert.IsTrue(Pages.TermsOfSalesPage.CheckRelativeURL());
                     break;
                 case "Terms of use":
-                    //Assert.IsTrue(Pages.TermsOfUsePage.IsAt());
                     Assert.IsTrue(Pages.TermsOfUsePage.CheckRelativeURL());
                     break;
                 case "Privacy Policy":

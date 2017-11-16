@@ -21,7 +21,7 @@ namespace Selenium.Automation.PageObjects.Pages.HeaderNav.Business.BusinessPrint
 
         protected override string PageTitle
         {
-            get { return "Epson"; }
+            get { return "Epson Label Makers - Epson"; }
         }
 
         #endregion

@@ -77,15 +77,15 @@ namespace Selenium.Automation.Spec.Features.HeaderNavMenu
         public virtual void HomePageNavigationToAboutNavMenuPages(string link, string[] exampleTags)
         {
             TechTalk.SpecFlow.ScenarioInfo scenarioInfo = new TechTalk.SpecFlow.ScenarioInfo("Home Page navigation to About nav menu pages", exampleTags);
-#line 7
+#line 6
   this.ScenarioSetup(scenarioInfo);
-#line 8
+#line 7
     testRunner.Given("I am on the homepage", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Given ");
-#line 9
+#line 8
     testRunner.When("I select the link \"About\"", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "When ");
-#line 10
+#line 9
     testRunner.And(string.Format("I select the link \"{0}\"", link), ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "And ");
-#line 11
+#line 10
  testRunner.Then(string.Format("I should be on the \"{0}\" page", link), ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Then ");
 #line hidden
             this.ScenarioCleanup();

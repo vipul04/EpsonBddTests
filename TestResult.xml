@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<test-run id="2" testcasecount="133" result="Failed" total="6" passed="5" failed="1" inconclusive="0" skipped="0" asserts="10" engine-version="3.7.0.0" clr-version="4.0.30319.42000" start-time="2017-11-16 12:15:08Z" end-time="2017-11-16 12:19:05Z" duration="236.988633">
+  <command-line><![CDATA[..\..\..\packages\NUnit.ConsoleRunner.3.7.0\tools\nunit3-console.exe  "..\..\..\src\Selenium.Automation.Spec\bin\Debug\Selenium.Automation.Spec.dll" --where "cat == test" --result=..\..\..\TestResult.xml]]></command-line>
+  <filter>
+    <cat>test</cat>
+  </filter>
+  <test-suite type="Assembly" id="0-1163" name="Selenium.Automation.Spec.dll" fullname="C:\Users\Vipul Vora\Documents\EpsonBddTests\src\Selenium.Automation.Spec\bin\Debug\Selenium.Automation.Spec.dll" runstate="Runnable" testcasecount="133" result="Failed" site="Child" start-time="2017-11-16 12:15:10Z" end-time="2017-11-16 12:19:05Z" duration="235.056570" total="6" passed="5" failed="1" warnings="0" inconclusive="0" skipped="0" asserts="10">
+    <environment framework-version="3.7.0.0" clr-version="4.0.30319.42000" os-version="Microsoft Windows NT 10.0.15063.0" platform="Win32NT" cwd="C:\Users\Vipul Vora\Documents\EpsonBddTests\src\Selenium.Automation.Spec\Batch" machine-name="DESKTOP-SG5RPSN" user="Vipul Vora" user-domain="DESKTOP-SG5RPSN" culture="en-GB" uiculture="en-US" os-architecture="x64" />
+    <settings>
+      <setting name="DisposeRunners" value="True" />
+      <setting name="WorkDirectory" value="C:\Users\Vipul Vora\Documents\EpsonBddTests\src\Selenium.Automation.Spec\Batch" />
+      <setting name="ImageRuntimeVersion" value="4.0.30319" />
+      <setting name="ImageTargetFrameworkName" value=".NETFramework,Version=v4.5.2" />
+      <setting name="ImageRequiresX86" value="False" />
+      <setting name="ImageRequiresDefaultAppDomainAssemblyResolver" value="False" />
+      <setting name="NumberOfTestWorkers" value="4" />
+    </settings>
+    <properties>
+      <property name="_PID" value="492" />
+      <property name="_APPDOMAIN" value="domain-" />
+    </properties>
+    <failure>
+      <message><![CDATA[One or more child tests had errors]]></message>
+    </failure>
+    <test-suite type="TestSuite" id="0-1164" name="Selenium" fullname="Selenium" runstate="Runnable" testcasecount="133" result="Failed" site="Child" start-time="2017-11-16 12:15:10Z" end-time="2017-11-16 12:19:05Z" duration="235.015707" total="6" passed="5" failed="1" warnings="0" inconclusive="0" skipped="0" asserts="10">
+      <properties />
+      <failure>
+        <message><![CDATA[One or more child tests had errors]]></message>
+      </failure>
+      <test-suite type="TestSuite" id="0-1165" name="Automation" fullname="Selenium.Automation" runstate="Runnable" testcasecount="133" result="Failed" site="Child" start-time="2017-11-16 12:15:10Z" end-time="2017-11-16 12:19:05Z" duration="235.010657" total="6" passed="5" failed="1" warnings="0" inconclusive="0" skipped="0" asserts="10">
+        <properties />
+        <failure>
+          <message><![CDATA[One or more child tests had errors]]></message>
+        </failure>
+        <test-suite type="TestSuite" id="0-1166" name="Spec" fullname="Selenium.Automation.Spec" runstate="Runnable" testcasecount="133" result="Failed" site="Child" start-time="2017-11-16 12:15:10Z" end-time="2017-11-16 12:19:05Z" duration="235.006620" total="6" passed="5" failed="1" warnings="0" inconclusive="0" skipped="0" asserts="10">
+          <properties />
+          <failure>
+            <message><![CDATA[One or more child tests had errors]]></message>
+          </failure>
+          <test-suite type="TestSuite" id="0-1167" name="Features" fullname="Selenium.Automation.Spec.Features" runstate="Runnable" testcasecount="133" result="Failed" site="Child" start-time="2017-11-16 12:15:10Z" end-time="2017-11-16 12:19:05Z" duration="235.002652" total="6" passed="5" failed="1" warnings="0" inconclusive="0" skipped="0" asserts="10">
+            <properties />
+            <failure>
+              <message><![CDATA[One or more child tests had errors]]></message>
+            </failure>
+            <test-suite type="TestSuite" id="0-1168" name="HeaderNavMenu" fullname="Selenium.Automation.Spec.Features.HeaderNavMenu" runstate="Runnable" testcasecount="98" result="Failed" site="Child" start-time="2017-11-16 12:15:10Z" end-time="2017-11-16 12:19:05Z" duration="234.998675" total="6" passed="5" failed="1" warnings="0" inconclusive="0" skipped="0" asserts="10">
+              <properties />
+              <failure>
+                <message><![CDATA[One or more child tests had errors]]></message>
+              </failure>
+              <test-suite type="TestFixture" id="0-1102" name="NavigateToTheHomeNavMenuPagesFeature" fullname="Selenium.Automation.Spec.Features.HeaderNavMenu.NavigateToTheHomeNavMenuPagesFeature" classname="Selenium.Automation.Spec.Features.HeaderNavMenu.NavigateToTheHomeNavMenuPagesFeature" runstate="Runnable" testcasecount="14" result="Failed" site="Child" start-time="2017-11-16 12:15:10Z" end-time="2017-11-16 12:19:05Z" duration="234.995091" total="6" passed="5" failed="1" warnings="0" inconclusive="0" skipped="0" asserts="10">
+                <properties>
+                  <property name="Description" value="Navigate to the Home nav menu pages" />
+                </properties>
+                <failure>
+                  <message><![CDATA[One or more child tests had errors]]></message>
+                </failure>
+                <test-suite type="ParameterizedMethod" id="0-1119" name="HomePageNavigationToHome_AppsServicesForHomePages" fullname="Selenium.Automation.Spec.Features.HeaderNavMenu.NavigateToTheHomeNavMenuPagesFeature.HomePageNavigationToHome_AppsServicesForHomePages" classname="Selenium.Automation.Spec.Features.HeaderNavMenu.NavigateToTheHomeNavMenuPagesFeature" runstate="Runnable" testcasecount="2" result="Failed" site="Child" start-time="2017-11-16 12:15:11Z" end-time="2017-11-16 12:16:41Z" duration="89.960510" total="2" passed="1" failed="1" warnings="0" inconclusive="0" skipped="0" asserts="2">
+                  <properties>
+                    <property name="Description" value="Home Page navigation to Home - Apps &amp; Services for Home pages" />
+                    <property name="Category" value="test" />
+                  </properties>
+                  <failure>
+                    <message><![CDATA[One or more child tests had errors]]></message>
+                  </failure>
+                  <test-case id="0-1117" name="HomePageNavigationToHome_AppsServicesForHomePages(&quot;Apps&quot;,System.String[])" fullname="Selenium.Automation.Spec.Features.HeaderNavMenu.NavigateToTheHomeNavMenuPagesFeature.HomePageNavigationToHome_AppsServicesForHomePages(&quot;Apps&quot;,System.String[])" methodname="HomePageNavigationToHome_AppsServicesForHomePages" classname="Selenium.Automation.Spec.Features.HeaderNavMenu.NavigateToTheHomeNavMenuPagesFeature" runstate="Runnable" seed="1979927600" result="Failed" label="Error" start-time="2017-11-16 12:15:11Z" end-time="2017-11-16 12:15:49Z" duration="37.951939" asserts="0">
+                    <properties />
+                    <failure>
+                      <message><![CDATA[OpenQA.Selenium.WebDriverTimeoutException : timeout
+  (Session info: chrome=61.0.3163.100)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 10.0.15063 x86_64)]]></message>
+                      <stack-trace><![CDATA[   at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.set_Url(String value)
+   at Selenium.Automation.Drivers.SeleniumDriver.GoTo(String url) in C:\Users\Vipul Vora\Documents\EpsonBddTests\src\Selenium.Automation.Drivers\SeleniumDriver.cs:line 62
+   at Selenium.Automation.Common.Selenium.Base.BasePage.GoTo() in C:\Users\Vipul Vora\Documents\EpsonBddTests\src\Selenium.Automation.Common\Selenium\Base\BasePage.cs:line 34
+   at Selenium.Automation.StepDefinitions.CommonSteps.GivenIAmOnTheHomepage() in C:\Users\Vipul Vora\Documents\EpsonBddTests\src\Selenium.Automation.Spec\StepDefinitions\CommonSteps.cs:line 14
+   at TechTalk.SpecFlow.Bindings.BindingInvoker.InvokeBinding(IBinding binding, IContextManager contextManager, Object[] arguments, ITestTracer testTracer, TimeSpan& duration)
+   at TechTalk.SpecFlow.Infrastructure.TestExecutionEngine.ExecuteStepMatch(BindingMatch match, Object[] arguments)
+   at TechTalk.SpecFlow.Infrastructure.TestExecutionEngine.ExecuteStep(StepInstance stepInstance)
+   at TechTalk.SpecFlow.Infrastructure.TestExecutionEngine.OnAfterLastStep()
+   at Selenium.Automation.Spec.Features.HeaderNavMenu.NavigateToTheHomeNavMenuPagesFeature.ScenarioCleanup()
+   at Selenium.Automation.Spec.Features.HeaderNavMenu.NavigateToTheHomeNavMenuPagesFeature.HomePageNavigationToHome_AppsServicesForHomePages(String link, String[] exampleTags) in C:\Users\Vipul Vora\Documents\EpsonBddTests\src\Selenium.Automation.Spec\Features\HeaderNavMenu\HomeNav.feature:line 45]]></stack-trace>
+                    </failure>
+                    <output><![CDATA[Given I am on the homepage
+-> error: timeout
+  (Session info: chrome=61.0.3163.100)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 10.0.15063 x86_64)
+When I select the link "Home"
+-> skipped because of previous errors
+And I select the link "Apps & Services for Home"
+-> skipped because of previous errors
+And I select the link "Apps"
+-> skipped because of previous errors
+Then I should be on the "Apps" page
+-> skipped because of previous errors
+]]></output>
+                  </test-case>
+                  <test-case id="0-1118" name="HomePageNavigationToHome_AppsServicesForHomePages(&quot;Epson Connect&quot;,System.String[])" fullname="Selenium.Automation.Spec.Features.HeaderNavMenu.NavigateToTheHomeNavMenuPagesFeature.HomePageNavigationToHome_AppsServicesForHomePages(&quot;Epson Connect&quot;,System.String[])" methodname="HomePageNavigationToHome_AppsServicesForHomePages" classname="Selenium.Automation.Spec.Features.HeaderNavMenu.NavigateToTheHomeNavMenuPagesFeature" runstate="Runnable" seed="754002408" result="Passed" start-time="2017-11-16 12:15:49Z" end-time="2017-11-16 12:16:41Z" duration="51.752823" asserts="2">
+                    <properties />
+                    <output><![CDATA[Given I am on the homepage
+-> done: CommonSteps.GivenIAmOnTheHomepage() (15.8s)
+When I select the link "Home"
+-> done: CommonSteps.WhenISelectTheLink("Home") (0.4s)
+And I select the link "Apps & Services for Home"
+-> done: CommonSteps.WhenISelectTheLink("Apps & Services f...") (0.4s)
+And I select the link "Epson Connect"
+-> done: CommonSteps.WhenISelectTheLink("Epson Connect") (29.7s)
+Then I should be on the "Epson Connect" page
+-> done: CommonSteps.ThenIShouldBeOnThePage("Epson Connect") (0.2s)
+]]></output>
+                  </test-case>
+                </test-suite>
+                <test-suite type="ParameterizedMethod" id="0-1107" name="HomePageNavigationToHome_SolutionsForHomePages" fullname="Selenium.Automation.Spec.Features.HeaderNavMenu.NavigateToTheHomeNavMenuPagesFeature.HomePageNavigationToHome_SolutionsForHomePages" classname="Selenium.Automation.Spec.Features.HeaderNavMenu.NavigateToTheHomeNavMenuPagesFeature" runstate="Runnable" testcasecount="4" result="Passed" start-time="2017-11-16 12:16:41Z" end-time="2017-11-16 12:19:05Z" duration="144.379293" total="4" passed="4" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="8">
+                  <properties>
+                    <property name="Description" value="Home Page navigation to Home - Solutions for Home pages" />
+                    <property name="Category" value="test" />
+                  </properties>
+                  <test-case id="0-1103" name="HomePageNavigationToHome_SolutionsForHomePages(&quot;Home &amp; Photo&quot;,System.String[])" fullname="Selenium.Automation.Spec.Features.HeaderNavMenu.NavigateToTheHomeNavMenuPagesFeature.HomePageNavigationToHome_SolutionsForHomePages(&quot;Home &amp; Photo&quot;,System.String[])" methodname="HomePageNavigationToHome_SolutionsForHomePages" classname="Selenium.Automation.Spec.Features.HeaderNavMenu.NavigateToTheHomeNavMenuPagesFeature" runstate="Runnable" seed="1520878900" result="Passed" start-time="2017-11-16 12:16:41Z" end-time="2017-11-16 12:17:20Z" duration="39.522945" asserts="2">
+                    <properties />
+                    <output><![CDATA[Given I am on the homepage
+-> done: CommonSteps.GivenIAmOnTheHomepage() (13.8s)
+When I select the link "Home"
+-> done: CommonSteps.WhenISelectTheLink("Home") (0.5s)
+And I select the link "Solutions for Home"
+-> done: CommonSteps.WhenISelectTheLink("Solutions for Home") (0.4s)
+And I select the link "Home & Photo"
+-> done: CommonSteps.WhenISelectTheLink("Home & Photo") (19.4s)
+Then I should be on the "Home & Photo" page
+-> done: CommonSteps.ThenIShouldBeOnThePage("Home & Photo") (0.0s)
+]]></output>
+                  </test-case>
+                  <test-case id="0-1104" name="HomePageNavigationToHome_SolutionsForHomePages(&quot;Home Cinema&quot;,System.String[])" fullname="Selenium.Automation.Spec.Features.HeaderNavMenu.NavigateToTheHomeNavMenuPagesFeature.HomePageNavigationToHome_SolutionsForHomePages(&quot;Home Cinema&quot;,System.String[])" methodname="HomePageNavigationToHome_SolutionsForHomePages" classname="Selenium.Automation.Spec.Features.HeaderNavMenu.NavigateToTheHomeNavMenuPagesFeature" runstate="Runnable" seed="281637757" result="Passed" start-time="2017-11-16 12:17:20Z" end-time="2017-11-16 12:18:02Z" duration="41.209879" asserts="2">
+                    <properties />
+                    <output><![CDATA[Given I am on the homepage
+-> done: CommonSteps.GivenIAmOnTheHomepage() (16.9s)
+When I select the link "Home"
+-> done: CommonSteps.WhenISelectTheLink("Home") (0.4s)
+And I select the link "Solutions for Home"
+-> done: CommonSteps.WhenISelectTheLink("Solutions for Home") (0.4s)
+And I select the link "Home Cinema"
+-> done: CommonSteps.WhenISelectTheLink("Home Cinema") (19.4s)
+Then I should be on the "Home Cinema" page
+-> done: CommonSteps.ThenIShouldBeOnThePage("Home Cinema") (0.0s)
+]]></output>
+                  </test-case>
+                  <test-case id="0-1105" name="HomePageNavigationToHome_SolutionsForHomePages(&quot;Home Office&quot;,System.String[])" fullname="Selenium.Automation.Spec.Features.HeaderNavMenu.NavigateToTheHomeNavMenuPagesFeature.HomePageNavigationToHome_SolutionsForHomePages(&quot;Home Office&quot;,System.String[])" methodname="HomePageNavigationToHome_SolutionsForHomePages" classname="Selenium.Automation.Spec.Features.HeaderNavMenu.NavigateToTheHomeNavMenuPagesFeature" runstate="Runnable" seed="14650757" result="Passed" start-time="2017-11-16 12:18:02Z" end-time="2017-11-16 12:18:34Z" duration="32.330207" asserts="2">
+                    <properties />
+                    <output><![CDATA[Given I am on the homepage
+-> done: CommonSteps.GivenIAmOnTheHomepage() (10.5s)
+When I select the link "Home"
+-> done: CommonSteps.WhenISelectTheLink("Home") (0.4s)
+And I select the link "Solutions for Home"
+-> done: CommonSteps.WhenISelectTheLink("Solutions for Home") (0.4s)
+And I select the link "Home Office"
+-> done: CommonSteps.WhenISelectTheLink("Home Office") (14.2s)
+Then I should be on the "Home Office" page
+-> done: CommonSteps.ThenIShouldBeOnThePage("Home Office") (0.0s)
+]]></output>
+                  </test-case>
+                  <test-case id="0-1106" name="HomePageNavigationToHome_SolutionsForHomePages(&quot;Gaming&quot;,System.String[])" fullname="Selenium.Automation.Spec.Features.HeaderNavMenu.NavigateToTheHomeNavMenuPagesFeature.HomePageNavigationToHome_SolutionsForHomePages(&quot;Gaming&quot;,System.String[])" methodname="HomePageNavigationToHome_SolutionsForHomePages" classname="Selenium.Automation.Spec.Features.HeaderNavMenu.NavigateToTheHomeNavMenuPagesFeature" runstate="Runnable" seed="400260269" result="Passed" start-time="2017-11-16 12:18:34Z" end-time="2017-11-16 12:19:05Z" duration="31.302285" asserts="2">
+                    <properties />
+                    <output><![CDATA[Given I am on the homepage
+-> done: CommonSteps.GivenIAmOnTheHomepage() (15.7s)
+When I select the link "Home"
+-> done: CommonSteps.WhenISelectTheLink("Home") (0.4s)
+And I select the link "Solutions for Home"
+-> done: CommonSteps.WhenISelectTheLink("Solutions for Home") (0.3s)
+And I select the link "Gaming"
+-> done: CommonSteps.WhenISelectTheLink("Gaming") (7.5s)
+Then I should be on the "Gaming" page
+-> done: CommonSteps.ThenIShouldBeOnThePage("Gaming") (0.0s)
+]]></output>
+                  </test-case>
+                </test-suite>
+              </test-suite>
+            </test-suite>
+          </test-suite>
+        </test-suite>
+      </test-suite>
+    </test-suite>
+  </test-suite>
+</test-run>

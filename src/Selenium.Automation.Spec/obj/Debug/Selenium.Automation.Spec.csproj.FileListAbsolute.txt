@@ -132,8 +132,6 @@ C:\Users\Vipul Vora\Documents\SeleniumAutomation\src\Selenium.Automation.Spec\ob
 C:\Users\Vipul Vora\Documents\SeleniumAutomation\src\Selenium.Automation.Spec\obj\Debug\Selenium.Automation.Spec.dll
 C:\Users\Vipul Vora\Documents\SeleniumAutomation\src\Selenium.Automation.Spec\obj\Debug\Selenium.Automation.Spec.pdb
 C:\Users\Vipul Vora\Documents\EpsonBddTests\src\Selenium.Automation.Spec\bin\Debug\chromedriver.exe
-C:\Users\Vipul Vora\Documents\EpsonBddTests\src\Selenium.Automation.Spec\bin\Debug\geckodriver.exe
-C:\Users\Vipul Vora\Documents\EpsonBddTests\src\Selenium.Automation.Spec\bin\Debug\IEDriverServer.exe
 C:\Users\Vipul Vora\Documents\EpsonBddTests\src\Selenium.Automation.Spec\bin\Debug\Selenium.Automation.Spec.dll.config
 C:\Users\Vipul Vora\Documents\EpsonBddTests\src\Selenium.Automation.Spec\bin\Debug\Selenium.Automation.Spec.dll
 C:\Users\Vipul Vora\Documents\EpsonBddTests\src\Selenium.Automation.Spec\bin\Debug\Selenium.Automation.Spec.pdb
@@ -153,3 +151,5 @@ C:\Users\Vipul Vora\Documents\EpsonBddTests\src\Selenium.Automation.Spec\bin\Deb
 C:\Users\Vipul Vora\Documents\EpsonBddTests\src\Selenium.Automation.Spec\obj\Debug\Selenium.Automation.Spec.csprojResolveAssemblyReference.cache
 C:\Users\Vipul Vora\Documents\EpsonBddTests\src\Selenium.Automation.Spec\obj\Debug\Selenium.Automation.Spec.dll
 C:\Users\Vipul Vora\Documents\EpsonBddTests\src\Selenium.Automation.Spec\obj\Debug\Selenium.Automation.Spec.pdb
+C:\Users\Vipul Vora\Documents\EpsonBddTests\src\Selenium.Automation.Spec\bin\Debug\geckodriver.exe
+C:\Users\Vipul Vora\Documents\EpsonBddTests\src\Selenium.Automation.Spec\bin\Debug\IEDriverServer.exe
