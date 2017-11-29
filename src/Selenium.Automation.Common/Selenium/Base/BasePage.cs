@@ -96,20 +96,20 @@ namespace Selenium.Automation.Common.Selenium.Base
 
         public void SelectLinkText(string linkText)
         {
-            try
-            {
+           // try
+           // {
                 WaitForElement(linkText);
                 IWebElement link = SeleniumDriver.WebDriver.FindElement(By.LinkText(linkText));
                 link.Click();
-            }
-            catch (Exception e)
-            {
-                WaitForElement(linkText);
-                IWebElement link = SeleniumDriver.WebDriver.FindElement(By.LinkText(linkText));
-                IJavaScriptExecutor jse = (IJavaScriptExecutor)SeleniumDriver.WebDriver;
-                jse.ExecuteScript("arguments[0].scrollIntoView(false);", link);
-                link.Click();
-            }
+            //}
+            //catch (Exception e)
+            //{
+            //    WaitForElement(linkText);
+            //    IWebElement link = SeleniumDriver.WebDriver.FindElement(By.LinkText(linkText));
+            //    IJavaScriptExecutor jse = (IJavaScriptExecutor)SeleniumDriver.WebDriver;
+            //    jse.ExecuteScript("argumenyouts[0].scrollIntoView(false);", link);
+            //    link.Click();
+            //}
         }
 
         public bool CheckPageTitle(string expectedTitle)

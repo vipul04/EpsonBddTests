@@ -15,12 +15,12 @@ namespace Selenium.Automation.PageObjects.Pages.HeaderNav.Business.BusinessProje
 
         protected override string RelativeUrl
         {
-            get { return "/eb-l1000series"; }
+            get { return "/verticals/business-projectors"; }
         }
 
         protected override string PageTitle
         {
-            get { return "EB-L1000 Series - Epson"; }
+            get { return "Business Projectors - Epson"; }
         }
 
         #endregion

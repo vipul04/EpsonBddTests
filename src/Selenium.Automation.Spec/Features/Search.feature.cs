@@ -111,7 +111,7 @@ this.ScenarioSetup(scenarioInfo);
         
         [NUnit.Framework.TestAttribute()]
         [NUnit.Framework.DescriptionAttribute("Navigate to Find your product page and choose product")]
-        [NUnit.Framework.TestCaseAttribute("Projectors", "Mobile Projectors", "EB-U32", new string[0])]
+        [NUnit.Framework.TestCaseAttribute("Projectors", "Mobile Projectors", "EB-X39", new string[0])]
         [NUnit.Framework.TestCaseAttribute("Scanners", "Graphics Scanner", "Expression 11000XL", new string[0])]
         [NUnit.Framework.TestCaseAttribute("Discproducer", "", "Epson Discproducer™ PP-100IIBD", new string[0])]
         [NUnit.Framework.TestCaseAttribute("Wearable Technology", "", "Runsense SF-810V", new string[0])]
@@ -140,8 +140,8 @@ this.ScenarioSetup(scenarioInfo);
         [NUnit.Framework.DescriptionAttribute("Navigate to Ink & Supplies page and search for product")]
         [NUnit.Framework.TestCaseAttribute("Ink Cartridge", "T9132", "T9132 Cyan Ink Cartridge (200ml)", new string[0])]
         [NUnit.Framework.TestCaseAttribute("Toner", "Toner Cartridge Cyan", "Toner Cartridge Cyan2.5k", new string[0])]
-        [NUnit.Framework.TestCaseAttribute("Ribons", "SIDM Black Ribbon Cartridge", "Epson SIDM Black Ribbon Cartridge for LX-100 (C13S015047)", new string[0])]
-        [NUnit.Framework.TestCaseAttribute("Label Makers", "Labelworks", "LabelWorks LW-300", new string[0])]
+        [NUnit.Framework.TestCaseAttribute("Ribbons", "SIDM Black Ribbon Cartridge", "Epson SIDM Black Ribbon Cartridge for LQ-100 (C13S015032)", new string[0])]
+        [NUnit.Framework.TestCaseAttribute("Label Makers", "Labelworks", "LabelWorks LW-400 (Qwerty)", new string[0])]
         public virtual void NavigateToInkSuppliesPageAndSearchForProduct(string productType, string searchTerm, string product, string[] exampleTags)
         {
             TechTalk.SpecFlow.ScenarioInfo scenarioInfo = new TechTalk.SpecFlow.ScenarioInfo("Navigate to Ink & Supplies page and search for product", exampleTags);

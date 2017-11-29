@@ -38,7 +38,7 @@ Scenario Outline: Navigate to Find your product page and choose product
 
 	Examples: 
 		| ProductType         | ProductCategory   | Product                        |
-		| Projectors          | Mobile Projectors | EB-U32                         | 
+		| Projectors          | Mobile Projectors | EB-X39                         | 
 		| Scanners            | Graphics Scanner  | Expression 11000XL             | 
 		| Discproducer        |                   | Epson Discproducer™ PP-100IIBD | 
 		| Wearable Technology |                   | Runsense SF-810V               | 
@@ -56,5 +56,5 @@ Scenario Outline: Navigate to Ink & Supplies page and search for product
 		| ProductType   | SearchTerm                  | Product                                                   |
 		| Ink Cartridge | T9132                       | T9132 Cyan Ink Cartridge (200ml)                          |
 		| Toner         | Toner Cartridge Cyan        | Toner Cartridge Cyan2.5k                                  |
-		| Ribons        | SIDM Black Ribbon Cartridge | Epson SIDM Black Ribbon Cartridge for LX-100 (C13S015047) |
-		| Label Makers  | Labelworks                  | LabelWorks LW-300                                         |
+		| Ribbons       | SIDM Black Ribbon Cartridge | Epson SIDM Black Ribbon Cartridge for LQ-100 (C13S015032) |
+		| Label Makers  | Labelworks                  | LabelWorks LW-400 (Qwerty)                                |

@@ -65,7 +65,7 @@ namespace Selenium.Automation.Spec.Features.HeaderNavMenu
         }
         
         [NUnit.Framework.TestAttribute()]
-        [NUnit.Framework.DescriptionAttribute("Home Page navigation to Business - Solutions for Verticals pages")]
+        [NUnit.Framework.DescriptionAttribute("Home Page navigation to Business - Solutions for Business pages")]
         [NUnit.Framework.TestCaseAttribute("Education", new string[0])]
         [NUnit.Framework.TestCaseAttribute("Corporate", new string[0])]
         [NUnit.Framework.TestCaseAttribute("Healthcare", new string[0])]
@@ -77,9 +77,9 @@ namespace Selenium.Automation.Spec.Features.HeaderNavMenu
         [NUnit.Framework.TestCaseAttribute("Professional Graphics", new string[0])]
         [NUnit.Framework.TestCaseAttribute("Meeting Solutions", new string[0])]
         [NUnit.Framework.TestCaseAttribute("Resources", new string[0])]
-        public virtual void HomePageNavigationToBusiness_SolutionsForVerticalsPages(string link, string[] exampleTags)
+        public virtual void HomePageNavigationToBusiness_SolutionsForBusinessPages(string link, string[] exampleTags)
         {
-            TechTalk.SpecFlow.ScenarioInfo scenarioInfo = new TechTalk.SpecFlow.ScenarioInfo("Home Page navigation to Business - Solutions for Verticals pages", exampleTags);
+            TechTalk.SpecFlow.ScenarioInfo scenarioInfo = new TechTalk.SpecFlow.ScenarioInfo("Home Page navigation to Business - Solutions for Business pages", exampleTags);
 #line 7
   this.ScenarioSetup(scenarioInfo);
 #line 8
@@ -87,7 +87,7 @@ namespace Selenium.Automation.Spec.Features.HeaderNavMenu
 #line 9
     testRunner.When("I select the link \"Business\"", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "When ");
 #line 10
-    testRunner.And("I select the link \"Solutions for Verticals\"", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "And ");
+    testRunner.And("I select the link \"Solutions for Business\"", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "And ");
 #line 11
     testRunner.And(string.Format("I select the link \"{0}\"", link), ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "And ");
 #line 12

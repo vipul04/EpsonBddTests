@@ -4,10 +4,10 @@
   So that I can view all that the site has to offer
 
 
-  Scenario Outline: Home Page navigation to Business - Solutions for Verticals pages
+  Scenario Outline: Home Page navigation to Business - Solutions for Business pages
     Given I am on the homepage
     When I select the link "Business"
-    And I select the link "Solutions for Verticals"
+    And I select the link "Solutions for Business"
     And I select the link "<Link>"
 	Then I should be on the "<Link>" page
     Examples:

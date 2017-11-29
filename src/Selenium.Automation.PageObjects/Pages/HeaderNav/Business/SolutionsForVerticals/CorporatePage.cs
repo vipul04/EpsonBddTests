@@ -15,7 +15,7 @@ namespace Selenium.Automation.PageObjects.Pages
 
         protected override string RelativeUrl
         {
-            get { return "/verticals/corporate"; }
+            get { return "/verticals/business-solutions-for-corporate"; }
         }
 
         protected override string PageTitle

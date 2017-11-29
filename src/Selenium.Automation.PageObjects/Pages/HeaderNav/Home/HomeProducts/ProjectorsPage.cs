@@ -20,7 +20,7 @@ namespace Selenium.Automation.PageObjects.Pages.HeaderNav.Home.HomeProducts
 
         protected override string PageTitle
         {
-            get { return "Epson home cinema - Epson"; }
+            get { return "Home Cinema Projectors - Epson"; }
         }
 
         #endregion
